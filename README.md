@@ -1,6 +1,6 @@
 # Apollo Server 4 Mocked Federation
 
-> See [setchy/apollo-server-4-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) for an Apollo Server 3.x example
+> See [setchy/apollo-server-3-mocked-federation](https://github.com/setchy/apollo-server-3-mocked-federation) for an Apollo Server 3.x example
 
 This repository contains a example of how to mock a managed federation Supergraph schema with [apollo-gateway](https://github.com/apollographql/federation) powered by [apollo-server](https://github.com/apollographql/apollo-server/) version 4.x.
 
