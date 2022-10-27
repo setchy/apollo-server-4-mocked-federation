@@ -18,7 +18,7 @@
     "@apollo/gateway": "2.1.4",
     "@apollo/server": "4.0.4",
     "@faker-js/faker": "7.6.0",
-    "@graphql-tools/mock": "8.7.6",
+    "@graphql-tools/mock": "8.7.7",
     "dotenv": "16.0.3"
   },
   "devDependencies": {
