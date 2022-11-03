@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/gateway": "2.1.4",
-    "@apollo/server": "4.1.0",
+    "@apollo/server": "4.1.1",
     "@faker-js/faker": "7.6.0",
     "@graphql-tools/mock": "8.7.10",
     "dotenv": "16.0.3"
