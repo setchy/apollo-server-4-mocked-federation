@@ -19,7 +19,7 @@
     "@apollo/server": "4.10.0",
     "@faker-js/faker": "8.3.1",
     "@graphql-tools/mock": "9.0.1",
-    "dotenv": "16.3.2"
+    "dotenv": "16.4.0"
   },
   "devDependencies": {
     "ts-node-dev": "2.0.0"
