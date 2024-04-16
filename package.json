@@ -15,7 +15,7 @@
   "author": "Adam Setch <@setchy>",
   "license": "ISC",
   "dependencies": {
-    "@apollo/gateway": "2.7.2",
+    "@apollo/gateway": "2.7.3",
     "@apollo/server": "4.10.3",
     "@faker-js/faker": "8.4.1",
     "@graphql-tools/mock": "9.0.2",
